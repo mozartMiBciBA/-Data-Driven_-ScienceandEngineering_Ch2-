@@ -22,6 +22,8 @@ Ejemplos de código y datos.
 
 This code script will show how to compute the Fourier Series in Python. 
 
-3.- 
+3.- CH02_SEC01_2_Gibbs
+
+This code script will show how to compute the Fourier Series in Python and Gibbs Phenomena that appear for discontinuous functions.
 
 

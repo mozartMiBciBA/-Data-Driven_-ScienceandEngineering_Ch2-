@@ -15,3 +15,11 @@ II.- Book PDF: http://databookuw.com/databook.pdf
 III.- https://www.youtube.com/c/Eigensteve
 
 Ejemplos de código y datos.
+
+1.-  
+
+2.- Ej1_Ch2_Fiurier_Series.ipynb
+
+3.- 
+
+

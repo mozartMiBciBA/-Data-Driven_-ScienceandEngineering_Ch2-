@@ -20,6 +20,8 @@ Ejemplos de código y datos.
 
 2.- Ej1_Ch2_Fiurier_Series.ipynb
 
+This code script will show how to compute the Fourier Series in Python. 
+
 3.- 
 
 

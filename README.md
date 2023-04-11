@@ -26,4 +26,8 @@ This code script will show how to compute the Fourier Series in Python.
 
 This code script will show how to compute the Fourier Series in Python and Gibbs Phenomena that appear for discontinuous functions.
 
+4.- CH02_SEC02_1_DFT
+
+This video discusses how to compute the Discrete Fourier Transform (DFT) matrix in Python.  In practice, the DFT should usually be computed using the fast Fourier transform (FFT).
+
 

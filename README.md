@@ -28,6 +28,9 @@ This code script will show how to compute the Fourier Series in Python and Gibbs
 
 4.- CH02_SEC02_1_DFT
 
-This video discusses how to compute the Discrete Fourier Transform (DFT) matrix in Python.  In practice, the DFT should usually be computed using the fast Fourier transform (FFT).
+This code script show how to compute the Discrete Fourier Transform (DFT) matrix in Python.  In practice, the DFT should usually be computed using the fast Fourier transform (FFT).
 
+5.- CH02_SEC02_1_Denoising
+
+This code script describes how to clean data with the Fast Fourier Transform (FFT) in Python.
 

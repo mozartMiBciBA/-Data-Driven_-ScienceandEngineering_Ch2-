@@ -34,3 +34,9 @@ This code script show how to compute the Discrete Fourier Transform (DFT) matrix
 
 This code script describes how to clean data with the Fast Fourier Transform (FFT) in Python.
 
+6.- CH02_SEC04_1_SpectrogramChirp
+
+This script describes how to compute the Spectrogram in Python.
+
+
+
